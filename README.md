@@ -1,4 +1,4 @@
-# dicee_flutter
+# dice_flutter
 
 A new Flutter project.
 
@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![imgflutterdd](https://user-images.githubusercontent.com/50750571/215939812-e1c4daef-1c7c-4988-ba7f-eefe2dd1bc6d.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app_flutter_3](https://user-images.githubusercontent.com/50750571/215939795-7c4815ae-31a2-45bf-8ec0-6506fbce2c85.gif)
